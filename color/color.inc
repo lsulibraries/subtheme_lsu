@@ -19,10 +19,10 @@ $info = array(
   // Pre-defined color schemes.
   'schemes' => array(
     'default' => array(
-      'title' => t('LSU (default)'),
+      'title' => t('HNOC (default)'),
       'colors' => array(
-        'top' => '#461d7b',
-        'bottom' => '#461d7b',
+        'top' => '#B86D46',
+        'bottom' => '#B86D46',
         'bg' => '#ffffff',
         'sidebar' => '#f6f6f2',
         'sidebarborders' => '#f9f9f9',
